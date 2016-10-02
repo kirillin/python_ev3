@@ -1,0 +1,32 @@
+1 lesson
+	1 part
+		lssn_1/first.py
+	2 part
+		lssn_1/screen.py
+		lssn_1/rotation.py
+	3 part
+		lssn_1/sound.py
+		lssn_1/battary.py
+		lssn_1/timer.py
+	4 part
+		lssn_1/sensor.py
+		lssn_1/sensor_file.py
+		lssn_1/data.txt
+2 lesson
+	1 part
+		lssn_2/lesson_1.sce
+	2 part - вывод дифференциального уравнения
+	3 part - модель
+		lssn_2/pendulum_ode.sce
+	4 part - модель в scilab
+		lssn_2/test.zcos
+		lssn_2/test_to_ws.zcos
+	5 part
+		lssn_2/import.sce
+		lssn_2/test.png
+	6 part
+		lssn_2/write_sin.sce
+		lssn_2/data.txt
+		lssn_2/plot_ols.sce
+		
+
