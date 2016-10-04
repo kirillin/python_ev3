@@ -43,6 +43,21 @@
     6 part
         model_sin.sce
 4 lesson
+    1 part - внутреннее устройство двигателя
+    2 part - математическая модель ДПТ
+    3 part - эксперименты с двигателем
+    4 part
+        paremeters_model.sce
+    5 part
+        equation_model.zcos
+    6 part - построение и анализ графиков по equation_model.zcos
+5 lesson
+    1 part
+        relay.py
+
+
+
+
 
 
 
