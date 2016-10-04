@@ -54,6 +54,13 @@
 5 lesson
     1 part
         relay.py
+    2 part
+        proportional.py
+        data_pc.txt
+    3 part
+        pc.zcos
+        pc.sce
+6 lesson
 
 
 

@@ -13,3 +13,14 @@ M_st = J * dot_omega;        //пусковой момент двигателя
 k_t = M_st / I_st;               //конструктивная постоянная
 k_e = U_ctrl / omega;      //конструктивная постоянная
 K_p = 20;
+
+
+importXcosDiagram("/media/data/evo/python_ev3/local/lctrs/lssn_5/pc.zcos");
+xcos_simulate(scs_m, 4);
+plot(A.time, A.values, "r--");
+
+data = read("/media/data/evo/python_ev3/local/lctrs/lssn_5/data_pc.txt", -1, 2);
+data(:,1) = data(:,1) - data(1,1);
+time = data(:,1);
+angle = data(:,2) * %pi / 180;
+plot(time, angle)
