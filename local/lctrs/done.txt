@@ -60,8 +60,15 @@
     3 part
         pc.zcos
         pc.sce
-6 lesson
-
+6 lesson - wxMaxima - символьный вычисления
+    1 part
+    2 part
+    3 part
+7 lesson - модель сегвея
+    1 part
+    2 part
+    3 part
+8 lesson
 
 
 

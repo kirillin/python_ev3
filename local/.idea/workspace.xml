@@ -85,33 +85,9 @@
       <file leaf-file-name="done.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lctrs/done.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+            <state relative-caret-position="401">
+              <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="relay.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lctrs/lssn_5/relay.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-              <folding>
-                <element signature="e#22#86#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="proportional.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lctrs/lssn_5/proportional.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-              <folding>
-                <element signature="e#22#91#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -130,6 +106,8 @@
         <option value="$PROJECT_DIR$/lctrs/lssn_3/motorsin.py" />
         <option value="$PROJECT_DIR$/lctrs/lssn_5/relay.py" />
         <option value="$PROJECT_DIR$/lctrs/lssn_5/proportional.py" />
+        <option value="$PROJECT_DIR$/lctrs/lssn_8/gyro_and_encoder.py" />
+        <option value="$PROJECT_DIR$/lctrs/lssn_8/gyro.py" />
         <option value="$PROJECT_DIR$/lctrs/done.txt" />
       </list>
     </option>
@@ -194,6 +172,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lctrs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lctrs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lssn_8" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -384,167 +380,6 @@
       <option name="presentableId" value="Default" />
       <updated>1475571143677</updated>
     </task>
-    <task id="LOCAL-00001" summary="refactoring and lesson 3&#10;">
-      <created>1475571962632</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1475571962632</updated>
-    </task>
-    <task id="LOCAL-00002" summary="refactoring and lesson 3&#10;">
-      <created>1475574638733</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1475574638733</updated>
-    </task>
-    <task id="LOCAL-00003" summary="refactoring and lesson 3&#10;">
-      <created>1475574670918</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1475574670918</updated>
-    </task>
-    <task id="LOCAL-00004" summary="refactoring and lesson 3&#10;">
-      <created>1475574746439</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1475574746439</updated>
-    </task>
-    <task id="LOCAL-00005" summary="refactoring and lesson 3&#10;">
-      <created>1475574863189</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1475574863189</updated>
-    </task>
-    <task id="LOCAL-00006" summary="refactoring and lesson 3&#10;">
-      <created>1475574912531</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1475574912531</updated>
-    </task>
-    <task id="LOCAL-00007" summary="refactoring and lesson 3&#10;">
-      <created>1475574946229</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1475574946229</updated>
-    </task>
-    <task id="LOCAL-00008" summary="refactoring and lesson 3&#10;">
-      <created>1475575370017</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1475575370017</updated>
-    </task>
-    <task id="LOCAL-00009" summary="refactoring and lesson 3&#10;">
-      <created>1475576007420</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1475576007420</updated>
-    </task>
-    <task id="LOCAL-00010" summary="refactoring and lesson 3&#10;">
-      <created>1475579314016</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1475579314016</updated>
-    </task>
-    <task id="LOCAL-00011" summary="refactoring and lesson 3&#10;">
-      <created>1475580743920</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1475580743920</updated>
-    </task>
-    <task id="LOCAL-00012" summary="refactoring and lesson 3&#10;">
-      <created>1475580966216</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1475580966216</updated>
-    </task>
-    <task id="LOCAL-00013" summary="refactoring and lesson 3&#10;">
-      <created>1475581038041</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1475581038041</updated>
-    </task>
-    <task id="LOCAL-00014" summary="refactoring and lesson 3&#10;">
-      <created>1475581044833</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1475581044833</updated>
-    </task>
-    <task id="LOCAL-00015" summary="refactoring and lesson 3&#10;">
-      <created>1475581627256</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1475581627256</updated>
-    </task>
-    <task id="LOCAL-00016" summary="refactoring and lesson 3&#10;">
-      <created>1475582278489</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1475582278489</updated>
-    </task>
-    <task id="LOCAL-00017" summary="refactoring and lesson 3&#10;">
-      <created>1475582957898</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1475582957899</updated>
-    </task>
-    <task id="LOCAL-00018" summary="refactoring and lesson 3&#10;">
-      <created>1475583114008</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1475583114008</updated>
-    </task>
-    <task id="LOCAL-00019" summary="refactoring and lesson 3&#10;">
-      <created>1475583267049</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1475583267049</updated>
-    </task>
-    <task id="LOCAL-00020" summary="refactoring and lesson 3&#10;">
-      <created>1475583481129</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1475583481129</updated>
-    </task>
-    <task id="LOCAL-00021" summary="refactoring and lesson 3&#10;">
-      <created>1475583566311</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1475583566311</updated>
-    </task>
-    <task id="LOCAL-00022" summary="refactoring and lesson 3&#10;">
-      <created>1475583731733</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1475583731733</updated>
-    </task>
-    <task id="LOCAL-00023" summary="refactoring and lesson 3&#10;">
-      <created>1475583774833</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1475583774833</updated>
-    </task>
     <task id="LOCAL-00024" summary="refactoring and lesson 3&#10;">
       <created>1475583907562</created>
       <option name="number" value="00024" />
@@ -678,7 +513,217 @@
       <option name="project" value="LOCAL" />
       <updated>1475586358072</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="refactoring and lesson 3&#10;">
+      <created>1475590773306</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1475590773306</updated>
+    </task>
+    <task id="LOCAL-00044" summary="refactoring and lesson 3&#10;">
+      <created>1475590852867</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1475590852868</updated>
+    </task>
+    <task id="LOCAL-00045" summary="refactoring and lesson 3&#10;">
+      <created>1475591087714</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1475591087714</updated>
+    </task>
+    <task id="LOCAL-00046" summary="refactoring and lesson 3&#10;">
+      <created>1475591895735</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1475591895735</updated>
+    </task>
+    <task id="LOCAL-00047" summary="refactoring and lesson 3&#10;">
+      <created>1475592371018</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1475592371018</updated>
+    </task>
+    <task id="LOCAL-00048" summary="refactoring and lesson 3&#10;">
+      <created>1475592525971</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1475592525971</updated>
+    </task>
+    <task id="LOCAL-00049" summary="refactoring and lesson 3&#10;">
+      <created>1475592730846</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1475592730846</updated>
+    </task>
+    <task id="LOCAL-00050" summary="refactoring and lesson 3&#10;">
+      <created>1475592757946</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1475592757949</updated>
+    </task>
+    <task id="LOCAL-00051" summary="refactoring and lesson 3&#10;">
+      <created>1475592890889</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1475592890890</updated>
+    </task>
+    <task id="LOCAL-00052" summary="refactoring and lesson 3&#10;">
+      <created>1475593150062</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1475593150063</updated>
+    </task>
+    <task id="LOCAL-00053" summary="refactoring and lesson 3&#10;">
+      <created>1475593238202</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1475593238203</updated>
+    </task>
+    <task id="LOCAL-00054" summary="refactoring and lesson 3&#10;">
+      <created>1475593301059</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1475593301059</updated>
+    </task>
+    <task id="LOCAL-00055" summary="refactoring and lesson 3&#10;">
+      <created>1475593406199</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1475593406200</updated>
+    </task>
+    <task id="LOCAL-00056" summary="refactoring and lesson 3&#10;">
+      <created>1475593575285</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1475593575286</updated>
+    </task>
+    <task id="LOCAL-00057" summary="refactoring and lesson 3&#10;">
+      <created>1475593637865</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1475593637866</updated>
+    </task>
+    <task id="LOCAL-00058" summary="refactoring and lesson 3&#10;">
+      <created>1475593766449</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1475593766449</updated>
+    </task>
+    <task id="LOCAL-00059" summary="refactoring and lesson 3&#10;">
+      <created>1475593850031</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1475593850031</updated>
+    </task>
+    <task id="LOCAL-00060" summary="refactoring and lesson 3&#10;">
+      <created>1475593927290</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1475593927291</updated>
+    </task>
+    <task id="LOCAL-00061" summary="refactoring and lesson 3&#10;">
+      <created>1475593962129</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1475593962129</updated>
+    </task>
+    <task id="LOCAL-00062" summary="refactoring and lesson 3&#10;">
+      <created>1475594028939</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1475594028940</updated>
+    </task>
+    <task id="LOCAL-00063" summary="refactoring and lesson 3&#10;">
+      <created>1475594624937</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1475594624937</updated>
+    </task>
+    <task id="LOCAL-00064" summary="refactoring and lesson 3&#10;">
+      <created>1475594871934</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1475594871934</updated>
+    </task>
+    <task id="LOCAL-00065" summary="refactoring and lesson 3&#10;">
+      <created>1475594916963</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1475594916963</updated>
+    </task>
+    <task id="LOCAL-00066" summary="refactoring and lesson 3&#10;">
+      <created>1475594998600</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1475594998600</updated>
+    </task>
+    <task id="LOCAL-00067" summary="refactoring and lesson 3&#10;">
+      <created>1475595063679</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1475595063679</updated>
+    </task>
+    <task id="LOCAL-00068" summary="refactoring and lesson 3&#10;">
+      <created>1475595542876</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1475595542876</updated>
+    </task>
+    <task id="LOCAL-00069" summary="refactoring and lesson 3&#10;">
+      <created>1475595594912</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1475595594912</updated>
+    </task>
+    <task id="LOCAL-00070" summary="refactoring and lesson 3&#10;">
+      <created>1475595639860</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1475595639860</updated>
+    </task>
+    <task id="LOCAL-00071" summary="refactoring and lesson 3&#10;">
+      <created>1475595879675</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1475595879675</updated>
+    </task>
+    <task id="LOCAL-00072" summary="refactoring and lesson 3&#10;">
+      <created>1475595925990</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1475595925990</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -723,7 +768,9 @@
     <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -789,7 +836,7 @@
         <state relative-caret-position="240">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
-            <element signature="e#0#77#0" expanded="true" />
+            <element signature="e#0#77#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -799,7 +846,7 @@
         <state relative-caret-position="105">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#22#47#0" expanded="true" />
+            <element signature="e#22#47#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -812,11 +859,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lctrs/lssn_5/data_pc.txt">
+    <entry file="file://$PROJECT_DIR$/lctrs/screen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="105">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lctrs/lssn_5/pc.zcos">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/ev3dev/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="696" column="8" selection-start-line="696" selection-start-column="8" selection-end-line="696" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/ev3dev/ev3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lctrs/lssn_8/segway.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -830,28 +911,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lctrs/screen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lctrs/lssn_5/proportional.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
             <element signature="e#22#91#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lctrs/lssn_8/gyro_and_encoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lctrs/lssn_8/gyro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lctrs/lssn_5/data_pc.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-530">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lctrs/done.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        <state relative-caret-position="401">
+          <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
           <folding />
         </state>
       </provider>
