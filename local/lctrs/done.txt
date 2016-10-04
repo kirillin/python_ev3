@@ -28,5 +28,25 @@
 		lssn_2/write_sin.sce
 		lssn_2/data.txt
 		lssn_2/plot_ols.sce
+3 lesson
+    1 part
+        motor_ind.py
+        data.txt
+    2 part - вывод ДУ для двигателя
+    3 part
+        motor_ind.sce
+    4 part
+        motor_sin.py
+        data_sin.txt
+    5 part
+        model_sin.zcos
+    6 part
+        model_sin.sce
+4 lesson
+
+
+
+
+
 		
 
