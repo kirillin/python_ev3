@@ -45,6 +45,6 @@ while True:
     print(u)
     motor_left.duty_cycle_sp = u
     motor_right.duty_cycle_sp = u
-    motor_right.run_forever()
-    motor_left.run_forever()
+    motor_right.run_direct()
+    motor_left.run_direct()
     time.sleep(WAIT_TIME)
