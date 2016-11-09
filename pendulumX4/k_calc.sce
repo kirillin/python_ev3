@@ -17,7 +17,7 @@ size_buffer = 10000;
 // 2.3- расходится
 // 1.4
 // -0.5
-tnreal = 1.4;
+tnreal = 1.5;
 tn = 6.3;
 w0 = tn / tnreal;
 
@@ -57,8 +57,8 @@ iE = (1/detE) * [
 ];
 
 //iE = E^-1;
-dQv = iE * F;
-Qv = iE * G;
+dQv = -iE * F;
+Qv = -iE * G;
 Uv = iE * H * Umax;
 
 
