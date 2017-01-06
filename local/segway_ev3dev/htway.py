@@ -117,8 +117,7 @@ class HTGyro(Gyro):
 
 class EV3Motor:
     def __init__(self, which=0):
-        devices = list(pyudev.Context().list_devices(subsystem='tacho-motor') \
-                .match_attribute('driver_name', 'lego-ev3-l-motor'))
+        devices = list(pyudev.Context().list_devices(subsystem='tacho-motor').match_attribute('driver_name', 'lego-ev3-l-motor'))
 
         if which >= len(devices):
             raise Exception("Motor not found")
